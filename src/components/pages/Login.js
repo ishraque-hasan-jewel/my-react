@@ -25,7 +25,7 @@ export default function Signup() {
           </Button>
 
           <div className="info">
-            Don't have an account? <a href="signup.html">Signup</a> instead.
+            Don't have an account? <a href="signup.js">Signup</a> instead.
           </div>
         </Form>
       </div>
